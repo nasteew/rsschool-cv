@@ -25,4 +25,27 @@ I hope that I will find myself in this business, because it is very important fo
 - Experience with MySQL management tools: phpMyAdmin, MySQL Workbench
 - Design tools: Figma, Adobe Photoshop, Canva
 - Experienced with Visual Studio Code and Visual Studio for development and code editing
-
+## Code example
+```
+function sum (numbers) {
+  if (!Array.isArray(numbers) || numbers.length === 0){
+    return 0;
+  }
+  let sum = 0;
+  for (let i = 0; i < numbers.length; i++){
+    sum+=numbers[i];
+  }
+  return sum;
+}
+```
+## Experience
+- Website development on WordPress under the supervision of an experienced developer 
+- Filling the site through the WordPress panel
+## Education
+- Radio Engineering College in my city
+- I am learning JavaScript from a [textbook](https://javascript.info/) on my own 
+- RS Schools Course «JavaScript/Front-end Pre-School» (in progress)
+## Languages
+- English - В2 (Intermediate)
+- Russian - Native
+- Belorussian - Native

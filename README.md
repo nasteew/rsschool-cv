@@ -1,1 +1,1 @@
-# rsschool-cv
+https://nasteew.github.io/rsschool-cv/cv

@@ -16,6 +16,7 @@ I hope that I will find myself in this business, because it is very important fo
 - *Perseverance is my middle name*
 > **My favorite phrase:**    
 > There are no hopeless situations
+
 ## Skills
 - HTML
 - CSS (Framework Bootstrap basic knowledge )

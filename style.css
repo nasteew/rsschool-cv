@@ -22,6 +22,7 @@ body{
     border-radius: 50%;
     border: 5px solid #fff;
     width: 250px;
+    object-fit: cover;
     position: relative;
     z-index: 1;
     margin: 0 auto;
@@ -29,6 +30,12 @@ body{
 .nav{
     display: flex;
     list-style: none;
+}
+hr{
+    border: none;
+    height: 1px;
+    background-color: black;
+    margin: 10px 0;
 }
 .left{
     background-color: #dfd7d3;
@@ -45,9 +52,18 @@ body{
 }
 .my-name{
     margin: 90px auto;
+    margin-bottom: 10px;
     color: #fff;
     position: relative;
     z-index: 1;
+}
+.my-profession{
+    color: #fff;
+    position: relative;
+    z-index: 1;
+    margin: 8px auto;
+    font-weight: normal;
+    font-size: 18px;
 }
 .my-contacts{
     display: flex;
@@ -104,4 +120,15 @@ body{
     padding: 0 20px;
     margin: 0;
 }
-.about-me{}
+.about-me{
+    margin-top: 60px;
+}
+.rss-logo{
+    width: 200px;
+    left: 330px;
+    position: relative;
+    top: 15px;
+}
+.code{
+    background-color: #dfd7d3;
+}

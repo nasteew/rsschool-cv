@@ -125,10 +125,27 @@ hr{
 }
 .rss-logo{
     width: 200px;
-    left: 330px;
-    position: relative;
-    top: 15px;
+    margin: 0 40px;
 }
 .code{
     background-color: #dfd7d3;
+}
+.right a{
+    flex: none;  
+    display: inline-block;
+    width: auto;
+}
+.right .github{
+  width: 100px;
+  margin: 0 30px;
+}
+.right .github:hover, .rss-logo:hover{
+    opacity: 0.6;
+}
+.links{
+    display: flex;
+    align-items: flex-end;
+}
+.links span{
+    margin-left: 80px;
 }

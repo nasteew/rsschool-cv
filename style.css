@@ -1,0 +1,151 @@
+.page{
+    margin: 30px auto;
+    width: 900px;
+    display: flex;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    position: relative;
+}
+body{
+    font-family: 'Poppins';
+    font-weight: 400;
+}
+.black-bar{
+    position: absolute;
+    right: 0;
+    top: 50px;              
+    width: 80%;            
+    height: 200px;
+    background-color: black;
+    z-index: 0;
+}
+.circle-image{
+    border-radius: 50%;
+    border: 5px solid #fff;
+    width: 250px;
+    object-fit: cover;
+    position: relative;
+    z-index: 1;
+    margin: 0 auto;
+}
+.nav{
+    display: flex;
+    list-style: none;
+}
+hr{
+    border: none;
+    height: 1px;
+    background-color: black;
+    margin: 10px 0;
+}
+.left{
+    background-color: #dfd7d3;
+    width: 35%;              
+    display: flex;
+    flex-direction: column;  
+    padding: 20px;
+}
+.right{
+    width: 65%;                 
+    display: flex;
+    flex-direction: column;   
+    padding: 20px;
+}
+.my-name{
+    margin: 90px auto;
+    margin-bottom: 10px;
+    color: #fff;
+    position: relative;
+    z-index: 1;
+}
+.my-profession{
+    color: #fff;
+    position: relative;
+    z-index: 1;
+    margin: 8px auto;
+    font-weight: normal;
+    font-size: 18px;
+}
+.my-contacts{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+.my-contacts ul{
+    list-style: none;
+    padding: 0;
+    margin: 5px 0;
+}
+.my-contacts ul li i{
+    display: inline-block;
+    width: 24px;
+    text-align: center;
+    margin: 0;
+}
+.my-contacts ul li{
+    display: inline;
+    margin: 5px 0;
+}
+.my-contacts ul li a{
+    color: black;
+}
+.my-contacts ul li a:hover{
+    color: grey;
+}
+.my-contacts ul li a:visited{
+    color: grey;
+}
+
+.left h4{
+    margin: 0;
+    padding: 3px 0;
+    font-weight: normal;
+}
+.left h5{
+    margin: 0;
+    padding: 3px 0;
+}
+.education{
+    margin: 10px;
+}
+.courses{
+    margin: 10px;
+}
+.languages{
+    margin: 10px;
+}
+.my-strengths{
+    margin: 10px;
+}
+.my-strengths ul{
+    padding: 0 20px;
+    margin: 0;
+}
+.about-me{
+    margin-top: 60px;
+}
+.rss-logo{
+    width: 200px;
+    margin: 0 40px;
+}
+.code{
+    background-color: #dfd7d3;
+}
+.right a{
+    flex: none;  
+    display: inline-block;
+    width: auto;
+}
+.right .github{
+  width: 100px;
+  margin: 0 30px;
+}
+.right .github:hover, .rss-logo:hover{
+    opacity: 0.6;
+}
+.links{
+    display: flex;
+    align-items: flex-end;
+}
+.links span{
+    margin-left: 80px;
+}

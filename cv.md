@@ -6,7 +6,6 @@ Minsk, Belarus • Open to Internship / Junior roles
 
 ## Contacts
 
-- **Phone:** +375 29 000 00 00
 - **Email:** [nastia.smoler@gmail.com](mailto:nastia.smoler@gmail.com)
 - **Location:** Minsk, Belarus
 - **LinkedIn:** [linkedin.com/in/anastasiya-smoler](https://www.linkedin.com/in/anastasiya-smoler)

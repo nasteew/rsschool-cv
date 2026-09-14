@@ -11,7 +11,6 @@ Minsk, Belarus • Open to Internship / Junior roles
 - **Location:** Minsk, Belarus
 - **LinkedIn:** [linkedin.com/in/anastasiya-smoler](https://www.linkedin.com/in/anastasiya-smoler)
 - **GitHub:** [github.com/nasteew](https://github.com/nasteew)
-- **Telegram:** [@username](https://t.me/username)
 - **Discord:** Anastasii (@nasteew)
 
 ## Professional Profile
